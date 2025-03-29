@@ -24,7 +24,7 @@ especially the UI stuff
 In the file, enter the executable file and run the `MakesEverythingWork.cmd` file
 
 > ⚠️ **Important**:  
-> Please run the app using the `run_task_manager.cmd` file. It’s **totally safe** and just runs the Java `.jar` file.
+> Please run the app using the `MakesEverythingWork.cmd` file. It’s **totally safe** and just runs the Java `.jar` file.
 
 I understand if its fishy for you since i have one public repo with one project but theres 3 lines in the file and its posted on in here, look through it as hard as you want, its just 3 lines
 
