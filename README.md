@@ -30,5 +30,12 @@ I understand if its fishy for you since i have one public repo with one project 
 
 ```cmd
 @echo off
-java -jar Task_Manager.jar
-pause
+start javaw -jar Task_Manager_Swing.jar
+exit
+```
+
+## Working on:
+- Converting Swing to JavaFX
+- Letting Description Show on Sidebar
+- Cleaning Up the Date Picker
+- Thinking of new features
